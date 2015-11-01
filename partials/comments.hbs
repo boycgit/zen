@@ -1,12 +1,13 @@
 <footer class="post comments">
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-  (function() {
-  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-  dsq.src = '//' + window.disqus_shortname + '.disqus.com/embed.js';
-  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+{{#is "post"}}
+
+<div id="SOHUCS" sid={{id}}></div>
+<script charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+    window.changyan.api.config({
+        appid: 'cys4tS3HA',
+        conf: 'prod_36e0cb40928d1dd80e272434912e7689'
+    });
+</script>
+{{/is}}
 </footer>
