@@ -72,7 +72,7 @@ One objective of this project is to adopt an effective policy to have the latest
 Make sure you're in the uno-zen directory. Then run:
 
 ```bash
-$ sh scripts/update
+$ sh scripts/update.sh
 ```
 
 That's all!
@@ -100,20 +100,20 @@ See in [documentation](https://github.com/Kikobeats/uno-zen/blob/master/DOCUMENT
 <a target="blank" href="http://www.flaviocorpa.com"><img src="http://i.imgur.com/1ESq2xs.png" /></a>
 <a target="blank" href="http://morris.guru"><img src="http://i.imgur.com/s9oimfG.png" /></a>
 <a target="blank" href="https://www.mooash.me"><img src="http://i.imgur.com/Ojmkuvw.png" /></a>
-<a target="blank" href="http://jahlom.com"><img src="http://i.imgur.com/qwgQ9Ay.png" /></a>
 <a target="blank" href="http://adrianperez.org"><img src="http://i.imgur.com/XlNFWWA.png" /></a>
 <a target="blank" href="http://www.bradenericson.com"><img src="http://i.imgur.com/8wz0LKN.png" /></a>
 <a target="blank" href="https://blog.h4t0n.com"><img src="http://i.imgur.com/GPWzqnG.png" /></a>
-<a target="blank" href="https://www.guovz.com"><img src="http://i.imgur.com/62TktSa.jpg" /></a>
 <a target="blank" href="http://robinz.in"><img src="http://i.imgur.com/qDAbrch.jpg" /></a>
-<a target="blank" href="http://www.iayon.com"><img src="http://i.imgur.com/vzZXfkf.png" /></a>
-<a target="blank" href="http://gln.me"><img src="http://i.imgur.com/v7N4hvi.png" /></a>
 <a target="blank" href="http://biercoff.com"><img src="http://i.imgur.com/goS3pE3.jpg" /></a>
 <a target="blank" href="https://randy.sesser.me"><img src="http://i.imgur.com/9hacUJc.jpg" /></a>
 <a target="blank" href="http://dan.maharry.me.uk"><img src="http://i.imgur.com/gAeS9jQ.jpg" /></a>
 <a target="blank" href="https://ishcha.com"><img src="http://i.imgur.com/u9PGLZj.jpg" /></a>
 <a target="blank" href="http://maptime.io/milan"><img src="http://i.imgur.com/hd9tpzq.jpg" /></a>
 <a target="blank" href="http://xlbd.me"><img src="http://i.imgur.com/wiqVB9R.jpg" /></a>
+<a target="blank" href="http://blog.sujithvishwajith.com/"><img src="http://i.imgur.com/eol02YK.jpg" /></a>
+<a target="blank" href="https://carlbernardo.github.io/"><img src="http://i.imgur.com/dihIo6Q.jpg" /></a>
+<a target="blank" href="http://www.olddonkey.com/"><img src="http://i.imgur.com/wa4kwnZ.jpg" /></a>
+<a target="blank" href="http://www.mohammedovich.com/"><img src="http://i.imgur.com/oiKFBG2.jpg" /></a>
 </br>
 </br>
 </div>
