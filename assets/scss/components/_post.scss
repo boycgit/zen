@@ -62,7 +62,7 @@
 .post {
   > p {
     > img {
-      width: 100%;
+      max-width: 100%;
       margin: 1.5rem auto;
 
       text-align: center;
